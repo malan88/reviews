@@ -185,3 +185,10 @@ Regardless, this git repo will serve to be a collection of reviews I will begin
 writing now as I watch these films. Tonight I will be watching Tarkovsky’s
 Stalker. I am rather excited about it after watching a filmmaker talk about it
 on the criterioncollection Youtube channel.
+
+##Sun Oct 28 08:49:18 EDT 2018
+
+I found two good Youtube channels: criswell and Art Regard. Both are concerned
+with art and cinema.
+
+I watched Jean Cocteau’s _La Belle et La Bête_’s, reviewing now.
