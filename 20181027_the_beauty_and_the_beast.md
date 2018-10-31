@@ -1,7 +1,7 @@
 Sun Oct 28 09:00:19 EDT 2018
 ----------------------------
-Jean Cocteau’s _La Belle et la Bête_
-====================================
+Jean Cocteau’s _La Belle et la Bête_ (_The Beauty and the Beast_)
+=================================================================
 
 This film was a sumptious exercise in avant-garde art seeking to suspend all
 political aspirations. It’s hard not to see it as anything but once you hear
