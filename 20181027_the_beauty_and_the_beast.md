@@ -4,7 +4,7 @@ Jean Cocteau’s _La Belle et la Bête_ (_The Beauty and the Beast_)
 =================================================================
 
 This film was a sumptious exercise in avant-garde art seeking to suspend all
-political aspirations. It’s hard not to see it as anything but once you hear
+political aspirations. It’s hard not to see it as anything _but_ once you hear
 that. Jean Cocteau was at odds with Jean Paul Sartre over his lack of political
 committment and Jean Cocteau directly addresses Sartre and his fellow
 Cocteau-critics in the opening preamble, which asks us to suspend our disbelief
@@ -17,11 +17,12 @@ bit of sexual imagery and motif.
 The film is somewhat boring until Belle’s father arrives at the castle. Then the
 film opens up into a magical world. The Beast has an interestingly high-pitched
 voice, where modern audiences are used to a deep growl. His costume is directly
-inspired by a 17th century nobelman with a strange disease that caused him to
-grow fur all over. The Beast resembles a lion in this costuming.
+inspired by a 17th century nobleman with a strange disease that caused him to
+grow fur all over. (I'll have to see where I read that; it's not on the
+Wikipedia (at least anymore). The Beast resembles a lion in this costume. 
 
 Enough. Now about the imagery. The arms sequences were fascinating. It was
-interesting to imagine how Cocteau would represent the magical castle in 1946
+interesting to see how Cocteau would represent the magical castle in 1946
 without special effects or animation. The way he did it was with a very
 performance art-like effect of bodyless arms holding and controlling everything
 in the castle. They unfold to create light, serve wine, open curtains, and
