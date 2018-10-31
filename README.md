@@ -1,7 +1,7 @@
-#My Cinematic Journey
-
-##Thu Oct 25 10:28:43 EDT 2018
-
+My Cinematic Journey
+====================
+Thu Oct 25 10:28:43 EDT 2018
+----------------------------
 I have recently begun a reinvestigation of Histoire(s) du cinéma (the actual
 study, not the film by Godard). I have just been throwing myself back into
 watching art house films, is really what I’m saying. It sort of started with two
@@ -186,7 +186,8 @@ writing now as I watch these films. Tonight I will be watching Tarkovsky’s
 Stalker. I am rather excited about it after watching a filmmaker talk about it
 on the criterioncollection Youtube channel.
 
-##Sun Oct 28 08:49:18 EDT 2018
+Sun Oct 28 08:49:18 EDT 2018
+----------------------------
 
 I found two good Youtube channels: criswell and Art Regard. Both are concerned
 with art and cinema.
