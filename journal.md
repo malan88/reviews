@@ -1,5 +1,6 @@
 My Cinematic Journey
 ====================
+
 Thu Oct 25 10:28:43 EDT 2018
 ----------------------------
 I have recently begun a reinvestigation of Histoire(s) du cinéma (the actual
@@ -26,7 +27,7 @@ movies. Over the past several weeks I have watched (not in actual order, except
 within source):
 
 1. Akira Kurosawa’s _Throne of Blood_ from Criterion
-    - incredible adaptation of _Macbeth_; probably the most interesting
+    - Incredible adaptation of _Macbeth_; probably the most interesting
       performance of Toshiro Mifune I’ve seen yet. Some shots--the swaying trees
       as Spider’s Web Forest comes to Spider’s Web Castle, Lady Macbeth
       shuffling out of a room, even the eerieness of the witch in the
@@ -165,26 +166,29 @@ within source):
 
 If there are some I am missing it is because I have watched so many in the last
 two to three weeks. I took a trip to Sound Exchange and purchased four or five
-films, including two Criterions: Gus Van Sant’s My Own Private Idaho and Stanley
-Kubrick’s Spartacus. (I also purchased Patton and Das Boot.) I am also sitting
-on two recent Amazonian purchases: Andrei Tarkovsky’s Stalker and Akira
-Kurosawa’s Ran. I will be watching these in the next few days. I just ordered
-(as of this morning) two Jean Cocteau films: Beauty and the Beast and Orpheus.
+films, including two Criterions: Gus Van Sant’s _My Own Private Idaho_ and
+Stanley Kubrick’s _Spartacus_. (I also purchased _Patton and _Das Boot_.) I am
+also sitting on two recent Amazonian purchases: Andrei Tarkovsky’s _Stalker_ and
+Akira Kurosawa’s _Ran_. I will be watching these in the next few days. I just
+ordered (as of this morning) two Jean Cocteau films: _Beauty and the Beast_ and
+_Orpheus_.
 
-I have been watching a fifteen part documentary on Hulu called Mark Cousins’ The
-Story of Film: An Odyssey. It is quite good, though Cousins’ voice can grate
-with its melodramatic cadence. Regardless, I have learned quite a bit about the
-history of film already (I am in episode six). From it I have become interested
-again in French Cinema, which is why I ordered the two Jean Cocteau films and I
-am itching to order Michael Carné’s Les Enfants du Paradis.
+I have been watching a fifteen part documentary on Hulu called Mark Cousins’
+_The Story of Film: An Odyssey_. It is quite good, though Cousins’ voice can
+grate with its melodramatic cadence. Regardless, I have learned quite a bit
+about the history of film already (I am in episode six). From it I have become
+interested again in French Cinema, which is why I ordered the two Jean Cocteau
+films and I am itching to order Michael Carné’s _Les Enfants du Paradis_.
 
-Most ironically, I still have yet to purchase Breathless or Battle of Algiers. I
-will, though, eventually.
+Most ironically, I still have yet to purchase _Breathless_ or _Battle of
+Algiers_. I will, though, eventually.
 
 Regardless, this git repo will serve to be a collection of reviews I will begin
 writing now as I watch these films. Tonight I will be watching Tarkovsky’s
-Stalker. I am rather excited about it after watching a filmmaker talk about it
+_Stalker_. I am rather excited about it after watching a filmmaker talk about it
 on the criterioncollection Youtube channel.
+
+---
 
 Sun Oct 28 08:49:18 EDT 2018
 ----------------------------
@@ -193,3 +197,42 @@ I found two good Youtube channels: criswell and Art Regard. Both are concerned
 with art and cinema.
 
 I watched Jean Cocteau’s _La Belle et La Bête_’s, reviewing now.
+
+---
+
+Wed Oct 31 16:42:26 EDT 2018
+----------------------------
+
+Since last README entry I have watched and reviewed _Orpheus_ and am two thirds
+of the way through _Stalker_. I will be finishing _Stalker_ tonight and
+reviewing either tonight or tomorrow.
+
+This README will serve as a journal entry. No. I’m going to rename this file and
+generate a new README.
+
+I have acquired Michel Carné’s _Les Enfants du Paradis_. I will be watching that
+in the next few days. Also: Kurosawa’s _Ran_.
+
+I am still contemplating my next Criterion purchase: I am considering the
+following six films:
+
+1. François Truffau’s _The 400 Blows_
+2. Vittorio de Sica’s _Bicycle Thieves_
+3. Robert Bresson’s _Pickpocket_
+4. Robert Bresson’s _Au Hasard Balthazar_
+5. Federico Fellini’s _La Dolce Vita_
+6. Andrei Tarkovsky’s _Andrei Rublev_
+
+I was initially very eager to get _Andrei Rublev_ but I am hesitant now. I am
+struggling to get through _Stalker_ (review coming soon). There isn’t even a
+commentary on the blu ray! I have no doubt I will eventually watch _Andrei
+Rublev_ but I don’t know that I will order it next (I am hereby limiting myself
+to one film a week; we’ll see how long that lasts). I am inclined to continue my
+French kick with _The 400 Blows_ or _Pickpocket_. I am very eager, however, to
+see _Au Hasard Balthazar_. Bresson is supposed to be amazing, so I want to see
+both of them. I am also very eager to see _Bicycle Thieves_ and _La Dolce Vita_
+(and eventually _8 1/2_) but I do not know that it is time to start in on
+Italian cinema yet. I was initially contemplating Carl Dreyer’s _The Passion of
+Joan of Arc_ but I _know_ I am not ready for silent films yet.
+
+Will keep this journal posted. Renaming it to journal.md now.
