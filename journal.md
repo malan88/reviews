@@ -1,13 +1,10 @@
-My Cinematic Journey
-====================
-
 Thu Oct 25 10:28:43 EDT 2018
 ----------------------------
 I have recently begun a reinvestigation of Histoire(s) du cinéma (the actual
 study, not the film by Godard). I have just been throwing myself back into
 watching art house films, is really what I’m saying. It sort of started with two
 events: one, me watching _The Witch_ on Netflix and adoring it, and two, me
-finding some cheap blu rays on Amazon that my father and I watched (the Jack
+finding some cheap blurays on Amazon that my father and I watched (the Jack
 Ryan series and the Bourne series). Partway through this, though, I had the
 inclination to watch David Lynch’s _Dune_, so I ordered it, and watched it. I
 then found myself wanting to watch John Carpenter’s _The Thing_, one of my
@@ -95,8 +92,9 @@ within source):
       execution was flawed_. I did not like the cheesy 70’s effects. I can
       sometimes forgive them, but I thought Tarkovsky could have found a more
       effective method for conveying the same idea without resorting to hackey
-      film cuts.
-      the primary 
+      film cuts. Especially because he’s brilliant _at precisely that sort of
+      thing_. The initial traffic sequence was genius at conveying the dystopian
+      future.
 8. Olivier Assayas’s _Après mai_ on Hulu
     - Titled _Something in the Air_ in English, it was a lovely film (not
       jaw-dropping, mind you, but lovely nonetheless). I couldn’t agree more
@@ -113,12 +111,15 @@ within source):
       the burning of Laure’s poetry book titled _Gasoline_, :wink: :wink:, the
       burning of the room Laure is in after her last appearance in the film
       (when Gilles burns her favorite painting), and the explosion of the car in
-      the final act. Also, in toward the beginning, the characters throw
-      molotove coctails.
+      the final act. Also, toward the beginning, the characters throw molotov
+      coctails. Fire is a pervasive motif in this film.
 9. Robert Eggers’ _The Witch_ on Netflix
     - Beautiful cinematography, and in incredibly eerie film. I especially loved
       the ending with Black Phillip. You just don’t know what to make of all the
-      witchcraft until that scene.
+      witchcraft until that scene. Though, and apparently the director has
+      pointed this out, the inital opening shot with the old haggish witch
+      cutting up the baby is _supposed_ to make very clear from the get go that
+      witchcraft is very real in this film.
 10. Denis Villeneuve’s _Enemy_ on Netflix
     - Brilliant thriller. Villeneuve definitely has a style with his score,
       though, that I think might get repetitive if he continues to use the same
@@ -225,7 +226,7 @@ following six films:
 
 I was initially very eager to get _Andrei Rublev_ but I am hesitant now. I am
 struggling to get through _Stalker_ (review coming soon). There isn’t even a
-commentary on the blu ray! I have no doubt I will eventually watch _Andrei
+commentary on the bluray! I have no doubt I will eventually watch _Andrei
 Rublev_ but I don’t know that I will order it next (I am hereby limiting myself
 to one film a week; we’ll see how long that lasts). I am inclined to continue my
 French kick with _The 400 Blows_ or _Pickpocket_. I am very eager, however, to
