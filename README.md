@@ -11,4 +11,6 @@ them. Thus, this repo.
 The file `journal.md` is just that, a cinematic journal. Each review is a new
 markdown file beginning with the date in `YYYYMMDD_<title>.md` format. I will
 use English titles with underscore spaces for the filenames and the original
-language’s titles for the title within the file. The journal is a hodgepodge.
+language’s titles for the title within the file, as well as a translation (for
+reference, especially in cases where the original title is in Cyrillic or
+Japanese). The journal is a hodgepodge.
