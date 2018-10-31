@@ -2,7 +2,7 @@ Cinematic Journey
 =================
 
 I have recently renewed my interest in cinema. As such I am going through the
-Criterion collection and watching Mark Cousins' _The Story of Film: An Odyssey_,
+Criterion collection and watching Mark Cousins’ _The Story of Film: An Odyssey_,
 as well as a number of alternative sources for cinematic history.
 
 As such, I am watching a lot of movies. The best way to absorb them is to review
