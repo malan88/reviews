@@ -217,7 +217,7 @@ in the next few days. Also: Kurosawa’s _Ran_.
 I am still contemplating my next Criterion purchase: I am considering the
 following six films:
 
-1. François Truffau’s _The 400 Blows_
+1. François Truffaut’s _The 400 Blows_
 2. Vittorio de Sica’s _Bicycle Thieves_
 3. Robert Bresson’s _Pickpocket_
 4. Robert Bresson’s _Au Hasard Balthazar_
