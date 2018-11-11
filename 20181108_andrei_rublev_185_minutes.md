@@ -2,6 +2,8 @@ Thu Nov  8 08:29:03 EST 2018
 ----------------------------
 Andrei Tarkovsky’s _Андрей Рублёв_ (_Andrei Rublev_)
 ====================================================
+185 minute version
+------------------
 
 This is the third Tarkovsky film I’ve seen now, and I must conclude, after some
 initial reticence, that Tarkovsky is in my Pantheon of Personal Auteurs. (Please
