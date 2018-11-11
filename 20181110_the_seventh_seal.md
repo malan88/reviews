@@ -127,7 +127,7 @@ liked Solaris in spite of myself. I liked Stalker only through much interminable
 effort. I adored Andrei Rublev. I have only watched, of Bergman, _The Seventh
 Seal_. I am very interested in several of his films, chief among them _Wild
 Strawberries_, _Summers with Monika_, and _Persona_. I have pre-ordered the
-Criterion Bergman's Cinema collection of 39 films (I got it for $150—which is
+Criterion Bergman’s Cinema collection of 39 films (I got it for $150—which is
 flat incredible for 39 films) and am anticipating watching quite a lot of
 Bergman.
 
@@ -137,3 +137,11 @@ Men_: it is the tale of an overly idealistic young man who encounters the
 ugliness in life and becomes hard and cynical and finds a way to come back to a
 happy medium, a chastened idealism. I don’t know why I wrote that in here, it
 belongs in the other observation.
+
+One interesting observation I forgot to make in the course of this: in _Andrei
+Rublev_, Andrei says he does not want to paint a Last Judgement, he does not
+want to paint something to frighten people; it is a mark of his idealism. In
+_The Seventh Seal_, when Jons makes a comment about how the painting the painter
+is painting won’t cheer anyone up, the painter says “Why does everything have to
+be cheerful? Why can’t I scare people for once.” Precisely the opposite
+attitudes.
