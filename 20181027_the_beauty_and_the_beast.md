@@ -18,7 +18,7 @@ The film is somewhat boring until Belle’s father arrives at the castle. Then t
 film opens up into a magical world. The Beast has an interestingly high-pitched
 voice, where modern audiences are used to a deep growl. His costume is directly
 inspired by a 17th century nobleman with a strange disease that caused him to
-grow fur all over. (I'll have to see where I read that; it's not on the
+grow fur all over. (I’ll have to see where I read that; it’s not on the
 Wikipedia (at least anymore). The Beast resembles a lion in this costume. 
 
 Enough. Now about the imagery. The arms sequences were fascinating. It was

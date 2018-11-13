@@ -241,19 +241,19 @@ Will keep this journal posted. Renaming it to journal.md now.
 Sat Nov 10 22:17:10 EST 2018
 ----------------------------
 
-Clearly, I've watched _Andrei Rublev_. I am about to press play (it's far to
+Clearly, I’ve watched _Andrei Rublev_. I am about to press play (it’s far to
 late in the night to finish it) the 205 minute version.
 
-I have also pre-ordered Criterion's Bergman's Cinema Collection, which will be
+I have also pre-ordered Criterion’s Bergman’s Cinema Collection, which will be
 coming in in a few weeks. I purchased, and have yet to watch (save the first
 twenty minutes) _Children of Paradise_. I will watch it soon enough.
 
-I am not purchasing any more Criterion films for the rest of the month. I'm
+I am not purchasing any more Criterion films for the rest of the month. I’m
 trying to save a little money and I have plenty of films to watch already,
 between the 40 or so films I have in my list on Netflix, the ten or so on Hulu,
-a couple on HBO Go, and the five or six I've purchased on blu ray and haven't
-watched yet, I've got some movie watching to do. Once I get Bergman's cinema, I
-won't need to buy any for a while (though I will). I'm getting more and more
+a couple on HBO Go, and the five or six I’ve purchased on blu ray and haven’t
+watched yet, I’ve got some movie watching to do. Once I get Bergman’s cinema, I
+won’t need to buy any for a while (though I will). I’m getting more and more
 curious about Italian cinema, though I still feel the need to continue in my
 French cinema before I get to Italian. Specifically, Bresson, Truffaut, and
 Godard. I also kind of want to watch _And God Created Woman_. Bridgette Bardot
@@ -263,6 +263,6 @@ was hot as hell.
 Tue Nov 13 08:01:00 EST 2018
 ----------------------------
 
-While I wait for my 39-film Ingmar Bergman collection (I'm so excited!) I
+While I wait for my 39-film Ingmar Bergman collection (I’m so excited!) I
 decided to start blowing through all the films in my Netflix, Hulu, Amazon
-Prime, and HBO Go watchlists. First up is Kogonada's _Columbus_.
+Prime, and HBO Go watchlists. First up is Kogonada’s _Columbus_.

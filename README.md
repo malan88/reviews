@@ -8,7 +8,7 @@ as well as a number of alternative sources for cinematic history.
 As such, I am watching a lot of movies. The best way to absorb them is to write
 about them. Thus, this repo.
 
-I am chiefly interested in cinema's symbolic and literary dimensions. After
+I am chiefly interested in cinema’s symbolic and literary dimensions. After
 that, I will comment on cinematography, directing style, characterization,
 dialogue, and all the other features that go into a film. Truth be told, I am
 absolutely _not_ reviewing these films. I am simply writing about them.
