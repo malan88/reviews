@@ -882,3 +882,13 @@ The Bell
 --------
 Spring-Summer-Autumn-Winter-Spring 1423-1424
 --------------------------------------------
+
+Already with the opening of The Bell do we have a bird symbol and a horse
+symbol. There is a rooster in the window next to Boriska. As I've already said,
+the kind of bird represents the kind of person.
+
+Repeatedly a horse's muddy rump keeps re-entering the frame to the left of
+Boriska. There's something ignobly symbolic in this. A horse is (supposedly) a
+symbol of life. Here we have a symbol of the butt of life. I'm just guessing on
+this. I've also seen tell that horses are such a complex symbol in this film
+that you have to interpret them afresh each time. I have no idea.
