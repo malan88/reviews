@@ -1,5 +1,6 @@
 Thu Oct 25 10:28:43 EDT 2018
 ----------------------------
+
 I have recently begun a reinvestigation of Histoire(s) du cinéma (the actual
 study, not the film by Godard). I have just been throwing myself back into
 watching art house films, is really what I’m saying. It sort of started with two
@@ -168,7 +169,7 @@ within source):
 If there are some I am missing it is because I have watched so many in the last
 two to three weeks. I took a trip to Sound Exchange and purchased four or five
 films, including two Criterions: Gus Van Sant’s _My Own Private Idaho_ and
-Stanley Kubrick’s _Spartacus_. (I also purchased _Patton and _Das Boot_.) I am
+Stanley Kubrick’s _Spartacus_. (I also purchased _Patton_ and _Das Boot_.) I am
 also sitting on two recent Amazonian purchases: Andrei Tarkovsky’s _Stalker_ and
 Akira Kurosawa’s _Ran_. I will be watching these in the next few days. I just
 ordered (as of this morning) two Jean Cocteau films: _Beauty and the Beast_ and
@@ -189,7 +190,6 @@ writing now as I watch these films. Tonight I will be watching Tarkovsky’s
 _Stalker_. I am rather excited about it after watching a filmmaker talk about it
 on the criterioncollection Youtube channel.
 
----
 
 Sun Oct 28 08:49:18 EDT 2018
 ----------------------------
@@ -199,7 +199,6 @@ with art and cinema.
 
 I watched Jean Cocteau’s _La Belle et La Bête_’s, reviewing now.
 
----
 
 Wed Oct 31 16:42:26 EDT 2018
 ----------------------------
@@ -259,3 +258,11 @@ curious about Italian cinema, though I still feel the need to continue in my
 French cinema before I get to Italian. Specifically, Bresson, Truffaut, and
 Godard. I also kind of want to watch _And God Created Woman_. Bridgette Bardot
 was hot as hell.
+
+
+Tue Nov 13 08:01:00 EST 2018
+----------------------------
+
+While I wait for my 39-film Ingmar Bergman collection (I'm so excited!) I
+decided to start blowing through all the films in my Netflix, Hulu, Amazon
+Prime, and HBO Go watchlists. First up is Kogonada's _Columbus_.
