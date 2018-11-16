@@ -266,3 +266,110 @@ Tue Nov 13 08:01:00 EST 2018
 While I wait for my 39-film Ingmar Bergman collection (I’m so excited!) I
 decided to start blowing through all the films in my Netflix, Hulu, Amazon
 Prime, and HBO Go watchlists. First up is Kogonada’s _Columbus_.
+
+
+Fri Nov 16 09:16:50 EST 2018
+----------------------------
+
+So, watched another Assayas film, and reviewed it. I started watching Scorcese’s
+_Silence_ before that but had to give it up because the film needs an LED
+television screen. On my 15 year old LCD the blacks are so badly represented the
+film is hard to see. It appears to be one of highly subtle coloration and it’s
+not getting a good representation on this screen, so I’ll wait.
+
+My lists on Netflix and Hulu are getting huge and fascinating. The films I most
+want to watch on Netlfix are:
+
+- _The Ballad of Buster Scruggs_
+- _Eternal Sunshine of the Spotless Mind_
+- _The Third Man_
+- _The English Patient_
+- _her_
+- _The Duchess_
+- _Under the Skin_
+- _Tulip Fever_
+- _L.A. Confidential_
+- _Once Upon a Time in America_
+- _Boyhood_
+- _The Immigrant_
+- _Mudbound_
+- _Woman in Gold_
+- _The Founder_
+- _Room_
+- _Free State of Jones_
+- _Slow West_
+- _The End of the Tour_
+- _Only God Forgives_
+- _Spring Breakers_
+- _The Other Side of the Wind_
+- _Suite Française_
+- _Raw_
+- _It Follows_
+- _Lion_
+- _A Most Violent Year_
+- _My Golden Days_
+- _Veronica_
+- _In Darkness_
+- _Brick_
+- _Life_
+- _The Bad Batch_
+- _Mohawk_
+- _Beasts of No Nation_
+- _The Endless_
+- _Colonia_
+- _Prodigy_
+- _Salt and Fire_
+- _As I Lay Dying_
+
+And on Hulu:
+
+- _Silence_
+- _Blow Out_
+- _Ain’t Them Bodies Saints_
+- _Frank_
+- _Lucky_
+- _Let the Sunshine In_
+- _The Duke of Burgundy_
+- _Mulholland Drive_
+- _Raging Bull_
+- _The Hero_
+- _What’s Eating Gilbert Grape_
+- _The Pianist_
+- _Midnight in Paris_
+- _Moonrise Kingdom_
+- _Colossal_
+- _Ingrid Goes West_
+- _Mother!_
+- _Young & Beautiful_
+- _Goodbye First Love_
+- _Marguerite & Julien_
+
+These films are in no particular order, merely the order in which I see them in
+my list. And on Amazon:
+
+- _Deliverance_
+- _The Age of Innocence_
+- _Badlands_
+- _One Flew Over the Cuckoo’s Nest_
+- _Jeremiah Johnson_
+- _The Count of Monte Cristo_
+- _Breakfast at Tiffany’s_
+- _The magnificent Seven_
+- _Excalibur_
+- _Chapter 27_
+- _Cosmopolis_
+- _A Ghsot Story_
+- _The Neon Demon_
+- _American Pastoral_
+- _Goya’s Ghost_
+- _The Lost City of Z_
+- _Manchester by the Sea_
+- _The Machinist_
+
+But there is no way I’ll make even a dent in all this before I’m suddenly awash
+in 39 Ingmar Bergman films in a week.
+
+I’m also highly interested in getting into Bresson and Ozu. I seem to see them
+referenced often by filmmakers who interest me. And their influence seems
+unfathomably interesting.
+
