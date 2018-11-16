@@ -27,7 +27,7 @@ of the finest actresses of my generation. It is a conundrum, goddammit.
 I mean seriously, is it acting if she acts like herself? Is it acting if her
 character is portrayed nearly always as _how she herself would react_? She is
 the opposite of method. Perhaps I have not seen enough of her roles, but I have
-seen quite a few (_Into the Wild_, all of the _Twilight_s—I can’t believe I have
+seen quite a few (_Into the Wild_, all of the _Twilights_—I can’t believe I have
 to say that—and I suppose now this. Of course the _Twilight_s were absolute
 garbage, but...) and in every one she acts like herself. She never embodies a
 character contrary to her own personality. She could not play, for instance, a
