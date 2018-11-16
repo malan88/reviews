@@ -28,7 +28,7 @@ I mean seriously, is it acting if she acts like herself? Is it acting if her
 character is portrayed nearly always as _how she herself would react_? She is
 the opposite of method. Perhaps I have not seen enough of her roles, but I have
 seen quite a few (_Into the Wild_, all of the _Twilights_—I can’t believe I have
-to say that—and I suppose now this. Of course the _Twilight_s were absolute
+to say that—and I suppose now this. Of course the _Twilights_ were absolute
 garbage, but...) and in every one she acts like herself. She never embodies a
 character contrary to her own personality. She could not play, for instance, a
 mother who has lost her own child. Or could she? Perhaps she would simply
@@ -101,9 +101,9 @@ outside world. Perhaps it is best to assume Klaus is simply the narrarator, who
 gives us the most tidbits about the meaning of the plot of the entire film by
 discussing the plot-within-a-plot. (Apparently, it is not a film-within-a-film
 but a play-within-a-film; I was never completely clear on that.) But this new
-sci-fi director seems to actually express Assayas’ opinions. He hats his era and
-generation. While this certainly seems like The Opinion of the Director it’s his
-next words that are more important: his character is “outside of time,”
+sci-fi director seems to actually express Assayas’ opinions. He hates his era
+and generation. While this certainly seems like The Opinion of the Director it’s
+his next words that are more important: his character is “outside of time,”
 “timeless.” As is the Maloja Snake, and by extension, the Jo-ann–Maria sequence
 of women, seems to be the point.
 
@@ -128,7 +128,16 @@ film using neural nets (idk wtf she did with them, but, Wikipedia).
 
 Given all that, the fact that this film fascinates us is a strong rebuke to the
 youth-obsession of Hollywood. Juliette Binoche is the most fascinating thing
-onscreen, and she’s 54.
+onscreen, and she’s 54. More to the point, though, there is an irony about this
+dynamic: in the film, Juliette’s character exudes youthful naïveté while
+Stewart’s character is full of knowing wisdom (except when she’s talking about
+gossip, which is when we see her Millenial come out). And we see Stewart’s
+character replaced by a personality-less, diversity-as-a-commodity vaguely Asian
+British personal assistent.
+
+Truth be told, the dynamic described in the Maloja Snake is this as well: a
+young woman who takes advantage of the innocent blindness of an older woman to
+advance her position in the world.
 
 The other most fascinating thing about the film is the fact that the vast
 majority of interesting characters are women. All the male characters are
