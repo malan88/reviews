@@ -373,3 +373,14 @@ I’m also highly interested in getting into Bresson and Ozu. I seem to see them
 referenced often by filmmakers who interest me. And their influence seems
 unfathomably interesting.
 
+Wed Nov 21 10:12:36 EST 2018
+============================
+
+Alright, I got all the Bergman films. I also just got _Breathless_.
+
+The Bergman collection is organized into a film festival. I was thinking I'd
+start with all the centerpieces and work my way to the more obscure films, but
+since watching _Wild Strawberries_ back to back with _Summer with Monika_ in a
+double feature and seeing how obviously they explore similar themes, I am
+inclined to stick more to Criterion's selections. As such, I will continue to
+explore these summer films.
