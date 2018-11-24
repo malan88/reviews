@@ -109,4 +109,6 @@ just above the butt. _Why?_ I feel that this film is not one I'll crack open in
 this review, but I'm seeing that it was brilliant from the moment I bought it
 and popped it in the DVD player 10–13 years ago.
 
+To top it all off, Michel closes his own eyes in death.
+
 And I do want that tattoo.
