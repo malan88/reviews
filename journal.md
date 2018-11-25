@@ -374,7 +374,7 @@ referenced often by filmmakers who interest me. And their influence seems
 unfathomably interesting.
 
 Wed Nov 21 10:12:36 EST 2018
-============================
+----------------------------
 
 Alright, I got all the Bergman films. I also just got _Breathless_.
 
@@ -384,3 +384,18 @@ since watching _Wild Strawberries_ back to back with _Summer with Monika_ in a
 double feature and seeing how obviously they explore similar themes, I am
 inclined to stick more to Criterion's selections. As such, I will continue to
 explore these summer films.
+
+Sun Nov 25 15:17:51 EST 2018
+----------------------------
+
+I ordered Ozu's _Tokyo Story_. Will watch tomorrow. I think I'm going to start
+_Scenes From a Marriage_ this afternoon. It seems not to be restored like some
+of the other films. There's a ton of film grain. I would rather watch the
+television version than the theatrical version; though I am bothered by the
+lack of restoration, as I was with the 205 minute version of _Andrei Rublev_. Oh
+well.
+
+I have watched three Nicolas Winding Refn films in the last two days. I have
+also watched Jon Turtletaub's _The Meg_ (what a piece of shit that was) and
+Alejandro González Iñárritu's _The Revenant_. Also, Andrew Byrne's _In
+Darkness_. A lot of films in a couple of days.
