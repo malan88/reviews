@@ -399,3 +399,11 @@ I have watched three Nicolas Winding Refn films in the last two days. I have
 also watched Jon Turtletaub's _The Meg_ (what a piece of shit that was) and
 Alejandro González Iñárritu's _The Revenant_. Also, Andrew Byrne's _In
 Darkness_. A lot of films in a couple of days.
+
+Wed Nov 28 18:30:11 EST 2018
+----------------------------
+
+I watched _Tokyo Story_ and reviewed it. I just purchased 3 Bresson films: _Au
+Hasard Balthasar_, _A Man Escaped_, and _Pickpocket_. I actually feel like
+watching none of them tonight, so I will watch _Citizen Kane_ and review
+tomorrow.
