@@ -96,18 +96,18 @@ these three basic pillars to modern culture. I _live_ in a family of culturally
 illiterate people, who couldn’t name the title of a single Greek Tragedy and
 would have to ask who wrote Merchant of Venice, who, despite being ostensibly
 Christian and act offended at the word goddamn do not have a clue what is
-actually _in_ the Bible (I largely think that 90% of “Christians” today don’t
+actually _in_ the Bible. I largely think that 90% of “Christians” today don’t
 actually know what’s in it either; how can anyone possibly like a God that kills
 children for making fun of an old man (the bears, the children, and Samuel, for
 reference). Of course _I_ understand the symbolic and mythological nature of
 these stories, but if these _Christians_ believe it all to be literal truth,
 then how can they find that God to be a just one? The reason is simple: they
 haven’t read the goddamned Bible they purport to believe in; nor have they
-explored the actual mythological meaning of the words within it (any truly
+explored the actual mythological meaning of the words within it. Any truly
 sophisticated analysis of the meaning of the Bible will yield a complete
 disbelief in the existence of an afterlife, for instance; the Jews certainly
 didn’t believe in it, and neither did Jesus; the Kingdom of Heaven is an
-extended metaphor for peace and tranquility and mystic revelation).
+extended metaphor for peace and tranquility and mystic revelation.
 
 Anyway, I’ve digressed for far too long. Let’s just conclude with this: Nicolas
 Winding Refn is an auteur, and the people who walked out are morons.
