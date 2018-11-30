@@ -87,7 +87,7 @@ stuck with it for as long as I did because I'd hoped that the film was going to
 be an interesting riff on the nature of the unknown and sublime. Especially when
 it starts with this quote from H.P. Lovecraft:
 
->The odlest and strongest emotion of mankind is fear, and the oldest and
+>The oldest and strongest emotion of mankind is fear, and the oldest and
 >strongest kind of fear is fear of the Unknown.
 
 (Don't get me started on the fact that they used two separate quotes, and that
@@ -136,4 +136,4 @@ on things besides technicals. Otherwise, they're destined for mediocrity (making
 it to Netflix is one thing, making it to Denis Villeneuve levels, for instance,
 is quite another, and getting to Spielberg's position, given their current
 output, looks nigh on impossible). No excuses guys, I don't care if you have
-funding issues (it certainly doesn't look like you do. Step it up.
+funding issues; it certainly doesn't look like you do. Step it up.
